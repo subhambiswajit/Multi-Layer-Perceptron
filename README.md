@@ -42,7 +42,7 @@ considered value.
 * Predicts the data test samples.
 
 ### Sample console output
-![alt text](img/002.png)
+![alt text](img/002.PNG)
 
 ### How do i run it ? 
 #### python test_mlp.py 
