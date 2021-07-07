@@ -13,7 +13,7 @@ This repository has an elementary implementation of a Multi Layer perceptron wit
 ## Directory and files description:
 <br>
 
-### 1. data: This has the datasets we used for training and testing the model.
+### 1. data: This has the datasets used for training and testing the model.
 ### 2. acc_calc.py: utility for checking accuracy.
 ### 3. nn.py: This file has the training algorithms including backpropagation process
 #### Utilities defined and their usages:
